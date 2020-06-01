@@ -1,2 +1,2 @@
 # Web-Application-Securities
-Identifying the Juice shop web application vulnerabilities
+A report on identifying the Juice shop web application vulnerabilities
